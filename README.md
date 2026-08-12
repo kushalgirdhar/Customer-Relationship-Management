@@ -1,10 +1,6 @@
 # Customer Relationship Management System (Django-CRM)
 
-[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
-[![Django 6.0+](https://img.shields.io/badge/django-6.0%2B-green.svg)](https://www.djangoproject.com/)
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-orange.svg)](LICENSE)
-
-An open-source, full-featured **Customer Relationship Management (CRM)** system built with **Python & Django**. Designed for businesses, agencies, and teams that need a unified solution for lead management, sales pipelines, task tracking, email marketing, and analytics.
+A full-featured **Customer Relationship Management (CRM)** system built with **Python & Django**. Designed for businesses, agencies, and teams that need a unified solution for lead management, sales pipelines, task tracking, email marketing, and analytics.
 
 ---
 

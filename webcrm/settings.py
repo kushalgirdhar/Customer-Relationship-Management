@@ -308,7 +308,7 @@ WEB_HELP = True
 # This is copyright information. Please don't change it!
 COPYRIGHT_STRING = f"Django-CRM. Copyright (c) {dt.now().year}"
 PROJECT_NAME = "Django-CRM"
-PROJECT_SITE = "https://djangocrm.github.io/info/"
+PROJECT_SITE = "https://github.com/kushalgirdhar/Customer-Relationship-Management"
 
 
 TESTING = sys.argv[1:2] == ['test']
